@@ -16,10 +16,11 @@ A simple machine learning application where you can **train a model** on text da
 
 ---
 ## 📸 Screenshots
+| ![image1](screenshots/image1.png)
 
 |  Prediction # 1 | Prediction # 2|
 |-----------|----------------|
-| ![image1](screenshots/image1.png) |![image2](screenshots/image2.png) 
+| ![image1](screenshots/image3.png) |![image2](screenshots/image2.png) 
 
 ---
 
