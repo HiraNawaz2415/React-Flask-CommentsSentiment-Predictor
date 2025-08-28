@@ -2,7 +2,7 @@
 
 ![Project Banner](path/to/your/image.png)
 
-A simple machine learning application where you can **train a model** on text data and **make predictions** using a React frontend. The backend is built with **Flask**, and the frontend uses **React + Tailwind CSS**.
+A simple machine learning application where you can **train a model** on text data and **make predictions** using a React frontend. The backend is built with **Flask**, and the frontend uses **React + CSS**.
 
 ---
 
