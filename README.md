@@ -15,10 +15,11 @@ A simple machine learning application where you can **train a model** on text da
 - Frontend integration with React for easy predictions.
 
 ---
+## 📸 Screenshots
 
-## Demo
-
-![Frontend Screenshot](path/to/simage1.png)
+|  Page | Page|
+|-----------|----------------|
+| ![image1](screenshots/image1.png) |![image2](screenshots/image2.png) 
 
 ---
 
