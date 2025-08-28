@@ -16,8 +16,8 @@ A simple machine learning application where you can **train a model** on text da
 
 ---
 ## 📸 Screenshots
-|  App Dashboard| 
-| ![image1](screenshots/image1.png)
+| App Dashboard| 
+| ![image1](screenshots/image1.png)| 
 
 |  Prediction # 1 | Prediction # 2|
 |-----------|----------------|
